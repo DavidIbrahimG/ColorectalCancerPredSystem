@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/davidibrahim/Programming/krishnaikcourse/colorectalcancer/mlruns/0/8e54c65a52544b1e9d7b2bad0bec43a8/artifacts
+end_time: 1755205963173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e54c65a52544b1e9d7b2bad0bec43a8
+run_name: brawny-snipe-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755205956690
+status: 3
+tags: []
+user_id: davidibrahim
