@@ -21,6 +21,13 @@ The dataset contains detailed clinical, demographic, and lifestyle factors for c
 
 ---
 
+## Flask UI
+
+
+<img width="498" height="719" alt="Screenshot 2025-08-14 at 23 29 25" src="https://github.com/user-attachments/assets/9934a27d-2852-4cd7-acdf-29756f8b979d" />
+
+-- 
+
 ## 🧪 Workflow
 
 ### 1. **Data Preprocessing**
